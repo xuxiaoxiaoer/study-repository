@@ -1,6 +1,7 @@
 # study-repository
-study hard
 
+study hard
+```
 public static void toBin(int num)//转成二进制
 {
 	trans(num,1,1);
@@ -34,3 +35,4 @@ public static void trans(int num,int base,int offset)
 	System.out.println(arr[x]);
    }
 }
+```
